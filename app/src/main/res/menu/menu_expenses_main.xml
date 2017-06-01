@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.admin.mydailyexpenses.ExpensesMainActivity">
+    <item
+        android:id="@+id/exp_list"
+        android:orderInCategory="102"
+        android:title="List Of Chapter" />
+    <item
+        android:id="@+id/ListViewExp"
+        android:orderInCategory="103"
+        android:title="Update Chapter" />
+</menu>
