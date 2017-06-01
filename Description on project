@@ -1,0 +1,35 @@
+Project Title: E-Finance Application.
+
+
+Group Member: 
+1.	IZZLYN IZZATY BINTI ZULKEFLI             B031410320
+2.	FATIN NAZIHAH BINTI MOHAMAD KAMIL        B031410190
+3.	NUR SYAHIRAH BINTI MOHD NOR AZNI         B031410296
+4.	MUNIRA ATHIRAH BINTI AMZAH               B031410236
+5.	SHAZLENNA BINTI SAHARUDDIN               B031410203
+
+
+
+
+1.	What is the project is all about?
+
+•	The project is all about finance education for children. The scope of user for the app is among kid’s 6 until 12 years old. The aim of the project is to educate children what is finance is all about. The kids will answer random question in the quiz module that had been developed in this project. Furthermore, this application have some information about finance; therefore, the kids can read and add more knowledge about finance. 
+
+2.	The module of functionality the mobile apps has?
+
+i.	List chapter of finance
+	-This module will give a little information about the finance. Besides, it enable user to 	add or update the information.
+ii.	Quiz
+	-For the addition, the quiz module was implemented in this project. The quiz module 	have several questions that can be answered by the kids. The questions is all about how 	to manage their finance more wisely. The kids will be answer the questions randomly 	and each question have multiple choices answer which is kids must choose the best 	answer. This modules also will show their score of the correct answer.
+
+3.	What libraries/external API’s such as a Google API or Firebase API are being used (if any)?
+
+•	None libraries/external API’s available.
+
+4.	How to setup the development environment - The require libraries; the plugin libraries especially hybrid project. 
+
+•	The libraries required are
+	apache-httpcomponents-httpclient.jar
+	apache-httpcomponents-httpcore.jar
+	commons-logging-1.2.jar
+	java-json.jar
